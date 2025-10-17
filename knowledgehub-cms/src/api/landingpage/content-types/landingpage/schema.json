@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "landingpages",
+  "info": {
+    "singularName": "landingpage",
+    "pluralName": "landingpages",
+    "displayName": "Landingpage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "blocks"
+    }
+  }
+}
